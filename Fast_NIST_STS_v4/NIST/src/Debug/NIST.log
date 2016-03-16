@@ -1,0 +1,32 @@
+﻿  utilities.c
+  universal.c
+  tools.c
+  serial.c
+  runs.c
+  rank.c
+  randomExcursionsVariant.c
+  randomExcursions.c
+  overlappingTemplateMatchings.c
+  nonOverlappingTemplateMatchings.c
+  matrix.c
+  main.c
+  LUTs.c
+  longestRunOfOnes.c
+  linearComplexity.c
+  genutils.c
+  generators.c
+  frequency.c
+  erf.c
+  discreteFourierTransform.c
+  Generating Code...
+  Compiling...
+  dfft.c
+  cusum.c
+  cephes.c
+  BMA.c
+  BM.c
+  blockFrequency.c
+  assess.c
+  approximateEntropy.c
+  Generating Code...
+  NIST.vcxproj -> C:\Users\ptrvt\Google Drive\Skola\BP\Fast_NIST_STS_v4\NIST\Debug\NIST.exe
